@@ -27,7 +27,7 @@ class Solution {
               result+=map.get(chars[i]);
               return result;
          }
-
+          
 
     public static void main(String[] args) {
         Solution solution = new Solution();
